@@ -1,0 +1,14 @@
+{
+  "name": "cfa-ui",
+  "version": "1.0.0",
+  "description": "cypress test automation for chickfila website ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
